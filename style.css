@@ -1,0 +1,16 @@
+html, body {
+  font-size: 17px;
+}
+header {
+  background-color: #F6881C;
+  text-align: center;
+  padding: 20px 0;
+}
+header img {
+  max-height: 200px;
+  max-width: 100%;
+}
+main {
+  padding: 20px;
+  max-width: 450px; 
+}
